@@ -3,6 +3,9 @@ Guide to identifying and exploiting SQL injection vulnerabilities in web apps us
 
 **SQL Injection (SQLi)** is a powerful attack technique that allows attackers to exploit web applications by manipulating database queries. This guide introduces **sqlmap**, a tool that helps identify and exploit SQL injection vulnerabilities. Whether you're new to web security or learning about SQL injection, this guide will walk you through sqlmap and its practical use cases.
 
+![GitHub license](https://img.shields.io/github/license/KhanIkram/web-app-attacks-sqlmap-README)
+![GitHub stars](https://img.shields.io/github/stars/KhanIkram/web-app-attacks-sqlmap-README?style=social)
+
 ---
 
 ## Table of Contents
